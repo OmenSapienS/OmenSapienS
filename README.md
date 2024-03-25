@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![imagem].(https://github.com/OmenSapienS/OmenSapienS/blob/main/dfshxim-7571d193-a833-488e-b080-70aac3d4bfe9%20.gif?raw=true).
