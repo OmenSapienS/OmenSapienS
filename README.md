@@ -1,4 +1,5 @@
-### Hi there 👋
+![imagem](https://github.com/OmenSapienS/OmenSapienS/blob/main/nerd-emoji.gif?raw=true)
+
 
 <!--
 **OmenSapienS/OmenSapienS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
