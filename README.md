@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![imagem].https://github.com/OmenSapienS/OmenSapienS/blob/main/dfshxim-7571d193-a833-488e-b080-70aac3d4bfe9%20(1).gif?raw=true
+![imagem].(https://github.com/OmenSapienS/OmenSapienS/blob/main/nerd-emoji.gif?raw=true)
+
