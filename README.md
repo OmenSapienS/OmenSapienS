@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
---> código para inserir gif
-
-![imagem].(https://github.com/OmenSapienS/OmenSapienS/blob/main/nerd-emoji.gif?raw=true)
-
+![imagem](https://github.com/OmenSapienS/OmenSapienS/blob/main/nerd-emoji.gif?raw=true)
