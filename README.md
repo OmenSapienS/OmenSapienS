@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-![gif].(https://github.com/OmenSapienS/OmenSapienS/blob/main/nerd-emoji.gif?raw=true)
+--> código para inserir gif
+
+![imagem].(https://github.com/OmenSapienS/OmenSapienS/blob/main/nerd-emoji.gif?raw=true)
 
