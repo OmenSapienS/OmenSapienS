@@ -1,3 +1,4 @@
+Oi [imagem](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif?raw=true)
 ![imagem](https://github.com/OmenSapienS/OmenSapienS/blob/main/nerd-emoji.gif?raw=true)
 
 
